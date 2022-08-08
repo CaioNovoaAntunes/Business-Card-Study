@@ -1,0 +1,246 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [androidx.databinding:viewbinding:7.2.2] C:\Users\caio.antunes\.gradle\caches\transforms-3\ac1da4e694c1b75f694f1de55fc07d5b\transformed\viewbinding-7.2.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.2.3] C:\Users\caio.antunes\.gradle\caches\transforms-3\530b20166a6facb40452c394375dc8e8\transformed\activity-ktx-1.2.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-ktx:2.3.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\cadcde2786dcd2d57ece9987fd89a8cf\transformed\room-ktx-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\eede1f66059d63831f6e554efd1807c6\transformed\lifecycle-livedata-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] C:\Users\caio.antunes\.gradle\caches\transforms-3\4ebb0098e8d30ed904891bd69d43cac7\transformed\lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\c49538c80e55720972756502f1b668c8\transformed\core-ktx-1.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] C:\Users\caio.antunes\.gradle\caches\transforms-3\a2c1cdc50c2821b571c93faa700d8385\transformed\lifecycle-runtime-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\1ae65516ed370a8249ee848289bd136c\transformed\savedstate-ktx-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\89b5c0456c59a2c9c5def11ffe404340\transformed\lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\bfb5a6220f5bbd1c1faf4570108f8a92\transformed\material-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\caio.antunes\.gradle\caches\transforms-3\0722c3901ad811b771a88db827a080df\transformed\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\396c37ab5d062d565f6fc95beb67778e\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\80dac470f0f4950c081f830c65f5fd28\transformed\room-runtime-2.3.0\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\56306327b96726a9b1f6fd4ae3981f9f\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\bd2b9e6f5461ecc0193a66bd8631836f\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\ac205609c24f3554193cac2f9d759e50\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\685a37908f9f019444b8255e9276432b\transformed\appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\cebdab5fefda5a470466bfd475a166d2\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\caio.antunes\.gradle\caches\transforms-3\b6cd5117970c5530dfa7bb19c19c26c9\transformed\activity-1.2.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\df9a8ae52dfae7e9fbdb9a4d6c1d536c\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\ab6157c1f3daf708253d158b2e19cae1\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\a0f9fc983fd66d0552d282bbc82733be\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\24b57ec14a67e189e5b482c0638ef530\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\d0e7166d8403588475340347e4b31c13\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\56b236b8a9978ada935a142e1a2a155c\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\3008b5acb2b9b6dd2cdd8d2d0108a0a4\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\2aa276574659009a7277e155be70ba96\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\716f64eadc1c3282b7cedf186515450a\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\0efb626d51dcf36ea7a99048a2ca943b\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\95e0d16342e279a5c3b428f7c33c412d\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\caio.antunes\.gradle\caches\transforms-3\546fddb5c75f4b4d39a87519bd301c01\transformed\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\8ca1b50ff6a61f868918a3552eeddab6\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\d4d1ffe32c0cadb7a5abcc50adbccb75\transformed\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\1eaaa9d81bb661ff277e2d57a9946fcb\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\caio.antunes\.gradle\caches\transforms-3\fab281a93cb91cb50239e951cbd08248\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\caio.antunes\.gradle\caches\transforms-3\6fa5957d065582bb94e917efcf28b54d\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\caio.antunes\.gradle\caches\transforms-3\0e196c1c8b404fc6e4e46107214dfa23\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\1447160e08ebc468f3c03b9060a20328\transformed\savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\9b10bdac8f19dc02abce90ee77cf8a98\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\2c1b4bef578e6876cb6a9db649450d6f\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\caio.antunes\.gradle\caches\transforms-3\519e980a8e0cda38b84e5fcad5eef069\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\055482729ffbc1750f126652353f581d\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\d69d62d1a1b90b0608ccf1172b0fde8c\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\c1691e09532141c66145b66d79509f6f\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\4797651e7c5fdfbf62f90396156a8d0b\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\f0c5e2c93077df6c79540daa583c83b9\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\ac3f3b65821d14b65913e2b45809671a\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:4:5-38
+		INJECTED from C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:7:5-9:40
+	tools:ignore
+		ADDED from C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:9:9-37
+	android:name
+		ADDED from C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:8:9-65
+application
+ADDED from C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:11:5-28:19
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\bfb5a6220f5bbd1c1faf4570108f8a92\transformed\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\bfb5a6220f5bbd1c1faf4570108f8a92\transformed\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\caio.antunes\.gradle\caches\transforms-3\0722c3901ad811b771a88db827a080df\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\caio.antunes\.gradle\caches\transforms-3\0722c3901ad811b771a88db827a080df\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\80dac470f0f4950c081f830c65f5fd28\transformed\room-runtime-2.3.0\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\80dac470f0f4950c081f830c65f5fd28\transformed\room-runtime-2.3.0\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.core:core:1.3.1] C:\Users\caio.antunes\.gradle\caches\transforms-3\546fddb5c75f4b4d39a87519bd301c01\transformed\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\caio.antunes\.gradle\caches\transforms-3\546fddb5c75f4b4d39a87519bd301c01\transformed\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\1eaaa9d81bb661ff277e2d57a9946fcb\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\1eaaa9d81bb661ff277e2d57a9946fcb\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\caio.antunes\.gradle\caches\transforms-3\546fddb5c75f4b4d39a87519bd301c01\transformed\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:15:9-41
+	android:roundIcon
+		ADDED from C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:16:9-54
+	android:icon
+		ADDED from C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:18:9-50
+	android:name
+		ADDED from C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:12:9-28
+activity#br.com.dio.businesscard.ui.AddBusinessCardActivity
+ADDED from C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:19:9-64
+	android:name
+		ADDED from C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:19:19-61
+activity#br.com.dio.businesscard.ui.MainActivity
+ADDED from C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:20:9-27:20
+	android:exported
+		ADDED from C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:21:13-36
+	android:name
+		ADDED from C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:20:19-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:25:27-74
+uses-sdk
+INJECTED from C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.2.2] C:\Users\caio.antunes\.gradle\caches\transforms-3\ac1da4e694c1b75f694f1de55fc07d5b\transformed\viewbinding-7.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.2.2] C:\Users\caio.antunes\.gradle\caches\transforms-3\ac1da4e694c1b75f694f1de55fc07d5b\transformed\viewbinding-7.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.3] C:\Users\caio.antunes\.gradle\caches\transforms-3\530b20166a6facb40452c394375dc8e8\transformed\activity-ktx-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.3] C:\Users\caio.antunes\.gradle\caches\transforms-3\530b20166a6facb40452c394375dc8e8\transformed\activity-ktx-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.3.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\cadcde2786dcd2d57ece9987fd89a8cf\transformed\room-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.3.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\cadcde2786dcd2d57ece9987fd89a8cf\transformed\room-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\eede1f66059d63831f6e554efd1807c6\transformed\lifecycle-livedata-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\eede1f66059d63831f6e554efd1807c6\transformed\lifecycle-livedata-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] C:\Users\caio.antunes\.gradle\caches\transforms-3\4ebb0098e8d30ed904891bd69d43cac7\transformed\lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] C:\Users\caio.antunes\.gradle\caches\transforms-3\4ebb0098e8d30ed904891bd69d43cac7\transformed\lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\c49538c80e55720972756502f1b668c8\transformed\core-ktx-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\c49538c80e55720972756502f1b668c8\transformed\core-ktx-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] C:\Users\caio.antunes\.gradle\caches\transforms-3\a2c1cdc50c2821b571c93faa700d8385\transformed\lifecycle-runtime-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] C:\Users\caio.antunes\.gradle\caches\transforms-3\a2c1cdc50c2821b571c93faa700d8385\transformed\lifecycle-runtime-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\1ae65516ed370a8249ee848289bd136c\transformed\savedstate-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\1ae65516ed370a8249ee848289bd136c\transformed\savedstate-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\89b5c0456c59a2c9c5def11ffe404340\transformed\lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\89b5c0456c59a2c9c5def11ffe404340\transformed\lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\bfb5a6220f5bbd1c1faf4570108f8a92\transformed\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\bfb5a6220f5bbd1c1faf4570108f8a92\transformed\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\caio.antunes\.gradle\caches\transforms-3\0722c3901ad811b771a88db827a080df\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\caio.antunes\.gradle\caches\transforms-3\0722c3901ad811b771a88db827a080df\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\396c37ab5d062d565f6fc95beb67778e\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\396c37ab5d062d565f6fc95beb67778e\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\80dac470f0f4950c081f830c65f5fd28\transformed\room-runtime-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\80dac470f0f4950c081f830c65f5fd28\transformed\room-runtime-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\56306327b96726a9b1f6fd4ae3981f9f\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\56306327b96726a9b1f6fd4ae3981f9f\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\bd2b9e6f5461ecc0193a66bd8631836f\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\bd2b9e6f5461ecc0193a66bd8631836f\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\ac205609c24f3554193cac2f9d759e50\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\ac205609c24f3554193cac2f9d759e50\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\685a37908f9f019444b8255e9276432b\transformed\appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\685a37908f9f019444b8255e9276432b\transformed\appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\cebdab5fefda5a470466bfd475a166d2\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\cebdab5fefda5a470466bfd475a166d2\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\caio.antunes\.gradle\caches\transforms-3\b6cd5117970c5530dfa7bb19c19c26c9\transformed\activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\caio.antunes\.gradle\caches\transforms-3\b6cd5117970c5530dfa7bb19c19c26c9\transformed\activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\df9a8ae52dfae7e9fbdb9a4d6c1d536c\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\df9a8ae52dfae7e9fbdb9a4d6c1d536c\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\ab6157c1f3daf708253d158b2e19cae1\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\ab6157c1f3daf708253d158b2e19cae1\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\a0f9fc983fd66d0552d282bbc82733be\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\a0f9fc983fd66d0552d282bbc82733be\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\24b57ec14a67e189e5b482c0638ef530\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\24b57ec14a67e189e5b482c0638ef530\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\d0e7166d8403588475340347e4b31c13\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\d0e7166d8403588475340347e4b31c13\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\56b236b8a9978ada935a142e1a2a155c\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\56b236b8a9978ada935a142e1a2a155c\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\3008b5acb2b9b6dd2cdd8d2d0108a0a4\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\3008b5acb2b9b6dd2cdd8d2d0108a0a4\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\2aa276574659009a7277e155be70ba96\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\2aa276574659009a7277e155be70ba96\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\716f64eadc1c3282b7cedf186515450a\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\716f64eadc1c3282b7cedf186515450a\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\0efb626d51dcf36ea7a99048a2ca943b\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\0efb626d51dcf36ea7a99048a2ca943b\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\95e0d16342e279a5c3b428f7c33c412d\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\95e0d16342e279a5c3b428f7c33c412d\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] C:\Users\caio.antunes\.gradle\caches\transforms-3\546fddb5c75f4b4d39a87519bd301c01\transformed\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\caio.antunes\.gradle\caches\transforms-3\546fddb5c75f4b4d39a87519bd301c01\transformed\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\8ca1b50ff6a61f868918a3552eeddab6\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\8ca1b50ff6a61f868918a3552eeddab6\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\d4d1ffe32c0cadb7a5abcc50adbccb75\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\d4d1ffe32c0cadb7a5abcc50adbccb75\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\1eaaa9d81bb661ff277e2d57a9946fcb\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\1eaaa9d81bb661ff277e2d57a9946fcb\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\caio.antunes\.gradle\caches\transforms-3\fab281a93cb91cb50239e951cbd08248\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\caio.antunes\.gradle\caches\transforms-3\fab281a93cb91cb50239e951cbd08248\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\caio.antunes\.gradle\caches\transforms-3\6fa5957d065582bb94e917efcf28b54d\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\caio.antunes\.gradle\caches\transforms-3\6fa5957d065582bb94e917efcf28b54d\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\caio.antunes\.gradle\caches\transforms-3\0e196c1c8b404fc6e4e46107214dfa23\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\caio.antunes\.gradle\caches\transforms-3\0e196c1c8b404fc6e4e46107214dfa23\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\1447160e08ebc468f3c03b9060a20328\transformed\savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\1447160e08ebc468f3c03b9060a20328\transformed\savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\9b10bdac8f19dc02abce90ee77cf8a98\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\9b10bdac8f19dc02abce90ee77cf8a98\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\2c1b4bef578e6876cb6a9db649450d6f\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\2c1b4bef578e6876cb6a9db649450d6f\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\caio.antunes\.gradle\caches\transforms-3\519e980a8e0cda38b84e5fcad5eef069\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\caio.antunes\.gradle\caches\transforms-3\519e980a8e0cda38b84e5fcad5eef069\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\055482729ffbc1750f126652353f581d\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\055482729ffbc1750f126652353f581d\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\d69d62d1a1b90b0608ccf1172b0fde8c\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\d69d62d1a1b90b0608ccf1172b0fde8c\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\c1691e09532141c66145b66d79509f6f\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\c1691e09532141c66145b66d79509f6f\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\4797651e7c5fdfbf62f90396156a8d0b\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\4797651e7c5fdfbf62f90396156a8d0b\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\f0c5e2c93077df6c79540daa583c83b9\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\f0c5e2c93077df6c79540daa583c83b9\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\ac3f3b65821d14b65913e2b45809671a\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\ac3f3b65821d14b65913e2b45809671a\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\80dac470f0f4950c081f830c65f5fd28\transformed\room-runtime-2.3.0\AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\80dac470f0f4950c081f830c65f5fd28\transformed\room-runtime-2.3.0\AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\80dac470f0f4950c081f830c65f5fd28\transformed\room-runtime-2.3.0\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\80dac470f0f4950c081f830c65f5fd28\transformed\room-runtime-2.3.0\AndroidManifest.xml:26:13-74

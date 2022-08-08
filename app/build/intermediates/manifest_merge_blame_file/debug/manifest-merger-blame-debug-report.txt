@@ -1,0 +1,71 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="br.com.dio.businesscard"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+11-->C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:6:5-80
+11-->C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:6:22-77
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:7:5-9:40
+12-->C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:8:9-65
+13
+14    <application
+14-->C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:11:5-28:19
+15        android:name="br.com.dio.businesscard.App"
+15-->C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:12:9-28
+16        android:allowBackup="true"
+16-->C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:13:9-35
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.3.1] C:\Users\caio.antunes\.gradle\caches\transforms-3\546fddb5c75f4b4d39a87519bd301c01\transformed\core-1.3.1\AndroidManifest.xml:24:18-86
+18        android:debuggable="true"
+19        android:icon="@mipmap/ic_launcher"
+19-->C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:14:9-43
+20        android:label="@string/app_name"
+20-->C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:15:9-41
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:16:9-54
+22        android:supportsRtl="true"
+22-->C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:17:9-35
+23        android:testOnly="true"
+24        android:theme="@style/Theme.BusinessCard" >
+24-->C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:18:9-50
+25        <activity android:name="br.com.dio.businesscard.ui.AddBusinessCardActivity" />
+25-->C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:19:9-64
+25-->C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:19:19-61
+26        <activity
+26-->C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:20:9-27:20
+27            android:name="br.com.dio.businesscard.ui.MainActivity"
+27-->C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:20:19-50
+28            android:exported="true" >
+28-->C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:21:13-36
+29            <intent-filter>
+29-->C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:22:13-26:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:23:17-69
+30-->C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:23:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:25:17-77
+32-->C:\Users\caio.antunes\Downloads\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\Business-Card-main\app\src\main\AndroidManifest.xml:25:27-74
+33            </intent-filter>
+34        </activity>
+35
+36        <service
+36-->[androidx.room:room-runtime:2.3.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\80dac470f0f4950c081f830c65f5fd28\transformed\room-runtime-2.3.0\AndroidManifest.xml:25:9-28:40
+37            android:name="androidx.room.MultiInstanceInvalidationService"
+37-->[androidx.room:room-runtime:2.3.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\80dac470f0f4950c081f830c65f5fd28\transformed\room-runtime-2.3.0\AndroidManifest.xml:26:13-74
+38            android:directBootAware="true"
+38-->[androidx.room:room-runtime:2.3.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\80dac470f0f4950c081f830c65f5fd28\transformed\room-runtime-2.3.0\AndroidManifest.xml:27:13-43
+39            android:exported="false" />
+39-->[androidx.room:room-runtime:2.3.0] C:\Users\caio.antunes\.gradle\caches\transforms-3\80dac470f0f4950c081f830c65f5fd28\transformed\room-runtime-2.3.0\AndroidManifest.xml:28:13-37
+40    </application>
+41
+42</manifest>

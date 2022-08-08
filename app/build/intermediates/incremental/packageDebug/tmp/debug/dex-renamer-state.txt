@@ -1,0 +1,4 @@
+#Mon Aug 08 19:28:46 BRT 2022
+base.0=C\:\\Users\\caio.antunes\\Downloads\\b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b\\Business-Card-main\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
